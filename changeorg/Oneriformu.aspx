@@ -37,7 +37,7 @@
                     <br />
 
                     <div class="col-md-12 btn-area">
-                        <div class="g-recaptcha" data-sitekey="6LedpRITAAAAAEM920UdXnlgtJhjkO7QYkKGdiZk" style="z-index: 9999; float: left;"></div>
+                        <div class="g-recaptcha" data-sitekey="" style="z-index: 9999; float: left;"></div>
                         <asp:Button Text="Gönder" runat="server" ID="gonderbtn" OnClick="gonderbtn_Click" />
                         <asp:Label Text="" runat="server" ID="lblmssg" />
                     </div>
