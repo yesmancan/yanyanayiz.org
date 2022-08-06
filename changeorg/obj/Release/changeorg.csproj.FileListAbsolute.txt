@@ -1,0 +1,119 @@
+E:\changeorg\changeorg\bin\roslyn\csc.exe
+E:\changeorg\changeorg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\changeorg\changeorg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\changeorg\changeorg\bin\roslyn\System.Collections.Immutable.dll
+E:\changeorg\changeorg\bin\roslyn\System.Reflection.Metadata.dll
+E:\changeorg\changeorg\bin\roslyn\vbc.exe
+E:\changeorg\changeorg\bin\roslyn\VBCSCompiler.exe
+E:\changeorg\changeorg\bin\roslyn\VBCSCompiler.exe.config
+E:\changeorg\changeorg\bin\changeorg.dll.config
+E:\changeorg\changeorg\bin\changeorg.dll
+E:\changeorg\changeorg\bin\changeorg.pdb
+E:\changeorg\changeorg\bin\DotNetOpenAuth.AspNet.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.Core.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.GoogleOAuth2.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\changeorg\changeorg\bin\Facebook.dll
+E:\changeorg\changeorg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\changeorg\changeorg\bin\Newtonsoft.Json.dll
+E:\changeorg\changeorg\bin\System.Net.Http.dll
+E:\changeorg\changeorg\bin\System.Net.Http.WebRequest.dll
+E:\changeorg\changeorg\bin\Org.Mentalis.Security.Cryptography.dll
+E:\changeorg\changeorg\bin\Mono.Math.dll
+E:\changeorg\changeorg\bin\DotNetOpenAuth.AspNet.xml
+E:\changeorg\changeorg\bin\DotNetOpenAuth.Core.xml
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.xml
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.xml
+E:\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\changeorg\changeorg\bin\Facebook.xml
+E:\changeorg\changeorg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\changeorg\changeorg\bin\Newtonsoft.Json.xml
+E:\changeorg\changeorg\bin\System.Net.Http.xml
+E:\changeorg\changeorg\bin\System.Net.Http.WebRequest.xml
+E:\changeorg\changeorg\bin\Org.Mentalis.Security.Cryptography.xml
+E:\changeorg\changeorg\bin\Mono.Math.xml
+E:\changeorg\changeorg\obj\Release\changeorg.dll
+E:\changeorg\changeorg\obj\Release\changeorg.pdb
+E:\changeorg\changeorg\obj\Release\changeorg.csprojResolveAssemblyReference.cache
+E:\changeorg\changeorg\bin\roslyn\csc.exe.config
+E:\changeorg\changeorg\bin\roslyn\csc.rsp
+E:\changeorg\changeorg\bin\roslyn\csi.exe
+E:\changeorg\changeorg\bin\roslyn\csi.rsp
+E:\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\changeorg\changeorg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\changeorg\changeorg\bin\roslyn\System.AppContext.dll
+E:\changeorg\changeorg\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\changeorg\changeorg\bin\roslyn\System.IO.FileSystem.dll
+E:\changeorg\changeorg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\changeorg\changeorg\bin\roslyn\vbc.exe.config
+E:\changeorg\changeorg\bin\roslyn\vbc.rsp
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\csc.exe
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\csc.exe.config
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\csc.rsp
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\csi.exe
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\csi.rsp
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\System.AppContext.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\System.IO.FileSystem.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\vbc.exe
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\vbc.exe.config
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\vbc.rsp
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\VBCSCompiler.exe
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\changeorg.dll.config
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\changeorg.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\changeorg.pdb
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\ASPSnippets.TwitterAPI.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.AspNet.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.Core.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.GoogleOAuth2.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\System.Net.Http.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\System.Net.Http.WebRequest.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Org.Mentalis.Security.Cryptography.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Mono.Math.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.AspNet.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.Core.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Facebook.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Newtonsoft.Json.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\System.Net.Http.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\System.Net.Http.WebRequest.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Org.Mentalis.Security.Cryptography.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Mono.Math.xml
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\obj\Release\changeorg.csprojResolveAssemblyReference.cache
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\obj\Release\changeorg.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\obj\Release\changeorg.pdb
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Recaptcha.dll
+E:\Web Siteleri\yanyanayiz.org\changeorg\changeorg\bin\Recaptcha.pdb

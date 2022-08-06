@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="changeorg.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="geo.placename" content="Türkiye" />
+    <meta name="geo.region" content="Türkiye" />
+    <meta name='pageKey' content='guest-home' />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./img/banner-144-144.gif" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./img/banner-114-114.gif" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./img/banner-72-72.gif" />
+    <link rel="apple-touch-icon-precomposed" href="./img/banner.jpg" />
+    <link rel="shortcut icon" href="./img/banner.jpg" />
+    <link rel="icon" href="/img/banner-72-72.gif" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <script>(function (a, b, c) { if (c in b && b[c]) { var d, e = a.location, f = /^(a|html)$/i; a.addEventListener("click", function (a) { d = a.target; while (!f.test(d.nodeName)) d = d.parentNode; "href" in d && (d.href.indexOf("http") || ~d.href.indexOf(e.host)) && (a.preventDefault(), e.href = d.href) }, !1) } })(document, window.navigator, "standalone")</script>
+
+    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+    <meta http-equiv="cleartype" content="on" />
+
+    <meta name="google-signin-scope" content="profile email" />
+    <meta name="google-signin-client_id" content="320925940419-qb9fkb86vpeje7nbbmaodh9bstkvcs3g.apps.googleusercontent.com" />
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+    <title>Changeorg Uygulaması</title>
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+    <link href="/plugins/jqueryui/jquery-ui.css" rel="stylesheet" />
+    <link href="/plugins/jqueryui/jquery-ui.theme.css" rel="stylesheet" />
+    <link href="/css/site.css" rel="stylesheet" />
+    <link href="/css/margins.css" rel="stylesheet" />
+    <link href="/css/fontawesome.css" rel="stylesheet" />
+
+    <link href="/plugins/datatable/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700&amp;subset=latin-ext" rel="stylesheet" />
+    <!-- font-family: 'Josefin Sans', sans-serif;-->
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&amp;subset=latin-ext" rel="stylesheet" />
+    <%-- font-family: 'Ubuntu', sans-serif; --%>
+
+    <script src="/js/jquery-1.11.2.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/angular.min.js"></script>
+    <script src="/plugins/jqueryui/jquery-ui.min.js"></script>
+    <script src="/plugins/datatable/js/jquery.dataTables.min.js"></script>
+    <script src="/plugins/datatable/js/dataTables.bootstrap.min.js"></script>
+    <script src="/js/site.js"></script>
+
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="wrapper">
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 col-sm-3 col-xs-5 ">
+                        <a href="/">
+                            <%--<img src="/img/banner.jpg" class="img-responsive" />--%>
+                            <img src="/img/logo.jpg" class="img-responsive" />
+                        </a>
+                    </div>
+                    <div class="pull-right col-md-2">
+                       <span class="imzacount">İmza Sayısı : 1460</span>
+                        <a href="#get_imza" id="loginArea">İmzala</a>
+                        <asp:Button Text="Çıkış Yap" OnClick="logout_Click" ID="logout" runat="server" Style="border: 0; background-color: transparent; font-size: 2rem; line-height: 67px;" />
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div>
+
+            <asp:ContentPlaceHolder ID="cphContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+    </form>
+    <footer>
+
+        <div class="container">
+        </div>
+
+    </footer>
+
+</body>
+</html>

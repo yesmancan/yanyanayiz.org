@@ -1,0 +1,101 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="changeorg.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="geo.placename" content="Türkiye" />
+    <meta name="geo.region" content="Türkiye" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./img/banner-144-144.gif" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./img/banner-114-114.gif" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./img/banner-72-72.gif" />
+    <link rel="apple-touch-icon-precomposed" href="./img/banner.jpg" />
+    <link rel="shortcut icon" href="./img/banner.jpg" />
+    <link rel="icon" href="/img/banner-72-72.gif" />
+
+    <meta property="og:url" content="http://www.yanyanayiz.com/Default.aspx" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="YAN YANAYIZ BİRARADAYIZ" />
+    <meta property="og:description" content="Hedef 10.000 imza" />
+    <meta property="og:image" content="http://www.yanyanayiz.com/img/banner-144-144.gif" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <script>(function (a, b, c) { if (c in b && b[c]) { var d, e = a.location, f = /^(a|html)$/i; a.addEventListener("click", function (a) { d = a.target; while (!f.test(d.nodeName)) d = d.parentNode; "href" in d && (d.href.indexOf("http") || ~d.href.indexOf(e.host)) && (a.preventDefault(), e.href = d.href) }, !1) } })(document, window.navigator, "standalone")</script>
+
+    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+    <meta http-equiv="cleartype" content="on" />
+
+    <meta name="google-signin-scope" content="profile email" />
+    <meta name="google-signin-client_id" content="320925940419-qb9fkb86vpeje7nbbmaodh9bstkvcs3g.apps.googleusercontent.com" />
+    <script src="https://apis.google.com/js/platform.js">{lang: 'tr'}</script>
+    <script src="https://apis.google.com/js/api:client.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=tr'></script>
+
+    <title>YAN YANAYIZ BİRARADAYIZ</title>
+    <link href="/css/bootstrap.css" rel="stylesheet" />
+    <link href="/plugins/jqueryui/jquery-ui.css" rel="stylesheet" />
+    <link href="/plugins/jqueryui/jquery-ui.theme.css" rel="stylesheet" />
+    <link href="/css/site.css" rel="stylesheet" />
+    <link href="/css/margins.css" rel="stylesheet" />
+    <link href="/css/fontawesome.css" rel="stylesheet" />
+
+    <link href="/plugins/datatable/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin-ext" rel="stylesheet" />
+    <%-- font-family: 'PT Sans', sans-serif; --%>
+    <link href="https://fonts.googleapis.com/css?family=Kanit:200,300,400,500,700&amp;subset=latin-ext" rel="stylesheet"/> 
+    <%-- font-family: 'Kanit', sans-serif; --%>
+    <script src="/js/jquery-1.11.2.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/plugins/jqueryui/jquery-ui.min.js"></script>
+    <script src="/plugins/datatable/js/jquery.dataTables.min.js"></script>
+    <script src="/plugins/datatable/js/dataTables.bootstrap.min.js"></script>
+    <script src="/js/site.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.4.0/clipboard.min.js"></script>
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="wrapper" novalidate="novalidate">
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 col-sm-3 col-xs-5" style="top: 2.5px;">
+                        <a href="/">
+                            <%--<img src="/img/banner.jpg" class="img-responsive" />--%>
+                            <img src="/img/logo.jpg" class="img-responsive" />
+                        </a>
+                    </div>
+                    <div class="pull-right" style="width: auto;">
+                        <a href="/Default.aspx#get_imza" id="loginArea">
+                            <span class="imzacount">Şu anda <span></span>&nbsp;kişi imzalamıştır.</span>
+                            <span class="imzalabtn">İmzala</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="cphContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+    </form>
+    <footer>
+
+        <div class="container">
+        </div>
+
+    </footer>
+
+</body>
+</html>
